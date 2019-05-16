@@ -1,0 +1,975 @@
+﻿Log file open, 05/06/19 14:28:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FinalProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.286965
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithDataPrepEditor
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6063286
+LogInit: Engine Version: 4.22.1-6063286+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Apr 24 2019 04:36:48
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.06-21.28.21:401][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.06-21.28.21:401][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.06-21.28.21:401][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Admin/Documents/Unreal Projects/FinalProject/Saved/Config/Windows/Engine.ini]
+[2019.05.06-21.28.21:401][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.06-21.28.21:401][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Admin/Documents/Unreal Projects/FinalProject/Saved/Config/Windows/Engine.ini]
+[2019.05.06-21.28.21:401][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Admin/Documents/Unreal Projects/FinalProject/Saved/Config/Windows/Engine.ini]
+[2019.05.06-21.28.21:401][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.06-21.28.21:401][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.06-21.28.21:401][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.06-21.28.21:401][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.06-21.28.21:401][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.06-21.28.21:401][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.06-21.28.21:401][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.06-21.28.21:401][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.06-21.28.21:401][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.06-21.28.21:401][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.06-21.28.21:401][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.06-21.28.21:401][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.06-21.28.21:401][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.06-21.28.21:401][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Admin/Documents/Unreal Projects/FinalProject/Saved/Config/Windows/Engine.ini]
+[2019.05.06-21.28.21:401][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.06-21.28.21:401][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.06-21.28.21:401][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.06-21.28.21:401][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.06-21.28.21:401][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.06-21.28.21:401][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.06-21.28.21:401][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.05.06-21.28.21:401][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.06-21.28.21:401][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.06-21.28.21:401][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.06-21.28.21:401][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.06-21.28.21:401][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.06-21.28.21:401][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.06-21.28.21:401][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Admin/Documents/Unreal Projects/FinalProject/Saved/Config/Windows/Engine.ini]
+[2019.05.06-21.28.21:401][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Admin/Documents/Unreal Projects/FinalProject/Saved/Config/Windows/Engine.ini]
+[2019.05.06-21.28.21:404][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/FinalProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/FinalProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/FinalProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/FinalProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.06-21.28.21:404][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/FinalProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/FinalProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/FinalProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.06-21.28.21:405][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.06-21.28.21:405][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.06-21.28.21:405][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.06-21.28.21:419][  0]LogHAL: Display: Platform has ~ 16 GB [17024585728 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.05.06-21.28.21:420][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.06-21.28.21:420][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/FinalProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/FinalProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/FinalProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/FinalProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/FinalProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/FinalProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.06-21.28.21:420][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Admin/Documents/Unreal Projects/FinalProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.06-21.28.21:420][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.06-21.28.21:421][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.06-21.28.21:421][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.06-21.28.21:421][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.06-21.28.21:421][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.05.06-21.28.21:421][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Admin/Documents/Unreal Projects/FinalProject/Saved/Config/Windows/Engine.ini]
+[2019.05.06-21.28.21:421][  0]LogInit: Computer: AIDENPC
+[2019.05.06-21.28.21:421][  0]LogInit: User: Admin
+[2019.05.06-21.28.21:421][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.06-21.28.21:421][  0]LogInit: High frequency timer resolution =2.742189 MHz
+[2019.05.06-21.28.21:421][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.06-21.28.21:421][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.06-21.28.21:421][  0]LogMemory: Process Physical Memory: 99.41 MB used, 99.41 MB peak
+[2019.05.06-21.28.21:421][  0]LogMemory: Process Virtual Memory: 90.68 MB used, 90.68 MB peak
+[2019.05.06-21.28.21:421][  0]LogMemory: Physical Memory: 8705.07 MB used,  7530.84 MB free, 16235.91 MB total
+[2019.05.06-21.28.21:421][  0]LogMemory: Virtual Memory: 4661.22 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.05.06-21.28.21:447][  0]LogInit: Using OS detected language (en-US).
+[2019.05.06-21.28.21:447][  0]LogInit: Using OS detected locale (en-US).
+[2019.05.06-21.28.21:448][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.06-21.28.21:618][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.06-21.28.21:659][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.06-21.28.21:659][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.06-21.28.21:869][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.06-21.28.21:869][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.06-21.28.22:833][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.05.06-21.28.22:833][  0]LogD3D11RHI:       4021/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.06-21.28.22:845][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.05.06-21.28.22:845][  0]LogD3D11RHI:       128/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.05.06-21.28.22:847][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.06-21.28.22:847][  0]LogD3D11RHI:       0/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.06-21.28.22:847][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.06-21.28.22:869][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.06-21.28.22:869][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.05.06-21.28.22:869][  0]LogWindows: EnumDisplayDevices:
+[2019.05.06-21.28.22:869][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.05.06-21.28.22:869][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.05.06-21.28.22:870][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.05.06-21.28.22:870][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.05.06-21.28.22:870][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.05.06-21.28.22:870][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.05.06-21.28.22:870][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.05.06-21.28.22:870][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2019.05.06-21.28.22:911][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.06-21.28.22:914][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.06-21.28.22:914][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.06-21.28.22:914][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.06-21.28.22:927][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.05.06-21.28.23:222][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.05.06-21.28.23:236][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.05.06-21.28.23:250][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.05.06-21.28.23:264][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.05.06-21.28.23:279][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.05.06-21.28.23:294][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.05.06-21.28.23:308][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.05.06-21.28.23:322][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.05.06-21.28.23:329][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.05.06-21.28.23:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.05.06-21.28.23:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.05.06-21.28.23:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.05.06-21.28.23:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.05.06-21.28.23:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.05.06-21.28.23:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.05.06-21.28.23:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.05.06-21.28.23:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.05.06-21.28.23:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.05.06-21.28.23:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.05.06-21.28.23:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.05.06-21.28.23:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.05.06-21.28.23:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.05.06-21.28.23:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.05.06-21.28.23:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.05.06-21.28.23:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.05.06-21.28.23:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.05.06-21.28.23:412][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.05.06-21.28.23:414][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.05.06-21.28.23:464][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.05.06-21.28.23:464][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.05.06-21.28.23:488][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.05.06-21.28.23:488][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.05.06-21.28.23:500][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.05.06-21.28.23:514][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.05.06-21.28.23:528][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.05.06-21.28.23:542][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.05.06-21.28.23:596][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.05.06-21.28.23:596][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.05.06-21.28.23:596][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.06-21.28.23:608][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.05.06-21.28.23:671][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/Admin/Documents/Unreal Projects/FinalProject/Intermediate/Shaders/WorkingDirectory/23700/).
+[2019.05.06-21.28.23:671][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Admin/AppData/Local/Temp/UnrealShaderWorkingDir/4E2FBCD646E4870D6F38F5B4E05F366B/'.
+[2019.05.06-21.28.23:674][  0]LogXGEController: Cleaning working directory: C:/Users/Admin/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.06-21.28.23:674][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.06-21.28.23:674][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.06-21.28.23:674][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.06-21.28.24:261][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.06-21.28.24:312][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/Admin/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.05.06-21.28.24:312][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Admin/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.05.06-21.28.24:312][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Admin/Documents/Unreal Projects/FinalProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.06-21.28.24:312][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.06-21.28.24:312][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Admin/Documents/Unreal Projects/FinalProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.06-21.28.24:312][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.06-21.28.24:326][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.06-21.28.24:330][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.05.06-21.28.24:342][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.06-21.28.24:342][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.06-21.28.24:342][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.06-21.28.24:366][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.06-21.28.24:367][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.06-21.28.24:367][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.06-21.28.24:454][  0]LogAssetRegistry: FAssetRegistry took 0.0333 seconds to start up
+[2019.05.06-21.28.24:790][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.06-21.28.24:929][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.06-21.28.24:929][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.05.06-21.28.24:929][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.06-21.28.24:929][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.05.06-21.28.24:929][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.05.06-21.28.24:946][  0]LogNetVersion: FinalProject 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1780545774)
+[2019.05.06-21.28.25:392][  0]LogPackageLocalizationCache: Processed 16 localized package path(s) for 1 prioritized culture(s) in 0.076772 seconds
+[2019.05.06-21.28.25:400][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.05.06-21.28.25:400][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.05.06-21.28.25:400][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.06-21.28.26:273][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.06-21.28.26:286][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.06-21.28.26:427][  0]SourceControl: Source control is disabled
+[2019.05.06-21.28.26:427][  0]SourceControl: Source control is disabled
+[2019.05.06-21.28.26:429][  0]SourceControl: Source control is disabled
+[2019.05.06-21.28.26:430][  0]SourceControl: Source control is disabled
+[2019.05.06-21.28.26:561][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.06-21.28.26:640][  0]LogOcInput: OculusInput pre-init called
+[2019.05.06-21.28.29:025][  0]LogEngine: Initializing Engine...
+[2019.05.06-21.28.29:026][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.06-21.28.29:027][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.05.06-21.28.29:248][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.06-21.28.29:264][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.06-21.28.29:326][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.06-21.28.29:343][  0]LogInit: FAudioDevice initialized.
+[2019.05.06-21.28.29:343][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.06-21.28.29:390][  0]LogDerivedDataCache: Saved boot cache 0.05s 73MB C:/Users/Admin/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.05.06-21.28.29:405][  0]LogInit: Texture streaming: Enabled
+[2019.05.06-21.28.29:425][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.06-21.28.29:449][  0]LogInit: Transaction tracking system initialized
+[2019.05.06-21.28.29:478][  0]BlueprintLog: New page: Editor Load
+[2019.05.06-21.28.29:566][  0]LocalizationService: Localization service is disabled
+[2019.05.06-21.28.29:887][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin/Documents/Unreal Projects/FinalProject/Content/' took 0.01s
+[2019.05.06-21.28.29:887][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.06-21.28.29:887][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.06-21.28.31:300][  0]SourceControl: Source control is disabled
+[2019.05.06-21.28.31:300][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Admin/Documents/Unreal Projects/FinalProject/Content/FlyingCPP/Maps/FlyingExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.06-21.28.31:300][  0]LightingResults: New page: Lighting Build
+[2019.05.06-21.28.31:303][  0]MapCheck: New page: Map Check
+[2019.05.06-21.28.31:303][  0]LightingResults: New page: Lighting Build
+[2019.05.06-21.28.31:334][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.05.06-21.28.31:482][  0]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2019.05.06-21.28.31:494][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.06-21.28.31:526][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.05.06-21.28.31:526][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.06-21.28.31:527][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.228ms to complete.
+[2019.05.06-21.28.31:527][  0]LogFileHelpers: Loading map 'FlyingExampleMap' took 0.227
+[2019.05.06-21.28.31:635][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-21.28.31:644][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-21.28.31:652][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-21.28.31:660][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-21.28.31:666][  0]LogCollectionManager: Loaded 0 collections in 0.001760 seconds
+[2019.05.06-21.28.31:683][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin/Documents/Unreal Projects/FinalProject/Saved/Collections/' took 0.01s
+[2019.05.06-21.28.31:683][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin/Documents/Unreal Projects/FinalProject/Content/Developers/Admin/Collections/' took 0.00s
+[2019.05.06-21.28.31:683][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin/Documents/Unreal Projects/FinalProject/Content/Collections/' took 0.00s
+[2019.05.06-21.28.31:683][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.06-21.28.31:693][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2867 classes and 728 folders.
+[2019.05.06-21.28.31:701][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.05.06-21.28.31:703][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-21.28.31:704][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-21.28.31:704][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-21.28.31:704][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-21.28.31:705][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-21.28.31:705][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-21.28.31:706][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-21.28.31:706][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-21.28.31:706][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-21.28.31:707][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-21.28.31:707][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-21.28.31:708][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-21.28.31:708][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-21.28.31:708][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-21.28.31:709][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-21.28.31:709][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-21.28.31:710][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-21.28.31:710][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-21.28.31:711][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-21.28.31:712][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-21.28.31:712][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-21.28.31:712][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-21.28.31:713][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-21.28.31:713][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-21.28.31:714][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-21.28.31:714][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-21.28.31:714][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-21.28.31:715][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.06-21.28.31:753][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.06-21.28.31:758][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2019.05.06-21.28.31:773][  0]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.06-21.28.31:775][  0]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.06-21.28.31:781][  0]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.06-21.28.31:846][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2019.05.06-21.28.31:913][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.06-21.28.32:060][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.05.06-21.28.32:060][  0]LogLoad: (Engine Initialization) Total time: 12.60 seconds
+[2019.05.06-21.28.32:060][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.06-21.28.32:079][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.06-21.28.32:244][  0]LogAssetRegistry: Asset discovery search completed in 7.8137 seconds
+[2019.05.06-21.28.32:247][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.06-21.28.32:247][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000054 seconds (updated 0 objects)
+[2019.05.06-21.28.32:248][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.06-21.28.41:343][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.06-21.28.41:409][268]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.06-21.28.41:420][268]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.28.41:420][268]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.06-21.28.41:420][268]PIE: New page: PIE session: FlyingExampleMap (May 6, 2019, 7:28:41 AM)
+[2019.05.06-21.28.41:433][268]LogPlayLevel: Creating play world package: /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap
+[2019.05.06-21.28.41:459][268]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025386s)
+[2019.05.06-21.28.41:459][268]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2019.05.06-21.28.41:459][268]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2019.05.06-21.28.41:459][268]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.026642s)
+[2019.05.06-21.28.41:484][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.05.06-21.28.41:489][268]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.06-21.28.41:503][268]LogInit: FAudioDevice initialized.
+[2019.05.06-21.28.41:562][268]LogLoad: Game class is 'FinalProjectGameMode'
+[2019.05.06-21.28.41:568][268]LogWorld: Bringing World /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 60) at 2019.05.06-14.28.41
+[2019.05.06-21.28.41:568][268]LogWorld: Bringing up level for play took: 0.004795
+[2019.05.06-21.28.41:587][268]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2019.05.06-21.28.41:588][268]PIE: Play in editor start time for /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap 0.126
+[2019.05.06-21.28.41:588][268]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.28.53:532][626]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.28.53:532][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-21.28.53:601][626]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.06-21.28.53:601][626]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.28.53:629][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-21.28.53:633][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.05.06-21.28.53:654][627]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.05.06-21.29.52:971][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.06-21.29.53:038][865]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.06-21.29.53:052][865]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.29.53:052][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.06-21.29.53:052][865]PIE: New page: PIE session: FlyingExampleMap (May 6, 2019, 7:29:53 AM)
+[2019.05.06-21.29.53:053][865]LogPlayLevel: Creating play world package: /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap
+[2019.05.06-21.29.53:074][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020955s)
+[2019.05.06-21.29.53:074][865]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2019.05.06-21.29.53:074][865]LogPlayLevel: PIE: World Init took: (0.000472s)
+[2019.05.06-21.29.53:075][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.021931s)
+[2019.05.06-21.29.53:105][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.05.06-21.29.53:113][865]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.06-21.29.53:127][865]LogInit: FAudioDevice initialized.
+[2019.05.06-21.29.53:157][865]LogLoad: Game class is 'FinalProjectGameMode'
+[2019.05.06-21.29.53:161][865]LogWorld: Bringing World /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 60) at 2019.05.06-14.29.53
+[2019.05.06-21.29.53:162][865]LogWorld: Bringing up level for play took: 0.004171
+[2019.05.06-21.29.53:175][865]PIE: Play in editor start time for /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap -0.288
+[2019.05.06-21.29.53:175][865]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.30.09:700][360]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.30.09:700][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-21.30.09:768][360]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.06-21.30.09:768][360]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.30.09:799][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-21.30.09:803][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.05.06-21.30.09:827][361]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.05.06-21.30.42:227][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.06-21.30.42:295][509]Candidate modules for hot reload:
+[2019.05.06-21.30.42:295][509]  FinalProject
+[2019.05.06-21.30.42:295][509]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FinalProject,8213 Win64 Development -TargetType=Editor -Project="C:/Users/Admin/Documents/Unreal Projects/FinalProject/FinalProject.uproject" "C:/Users/Admin/Documents/Unreal Projects/FinalProject/FinalProject.uproject"  -IgnoreJunk]
+[2019.05.06-21.30.42:299][509]Warning: Starting HotReload took  0.1s.
+[2019.05.06-21.31.03:782][726]CompilerResultsLog: New page: Compilation - May 6, 2019, 7:31:03 AM
+[2019.05.06-21.31.03:783][726]CompilerResultsLog: Creating makefile for FinalProjectEditor (ini files are newer than makefile)
+[2019.05.06-21.31.03:783][726]CompilerResultsLog: Parsing headers for FinalProjectEditor
+[2019.05.06-21.31.03:783][726]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Admin\Documents\Unreal Projects\FinalProject\FinalProject.uproject" "C:\Users\Admin\Documents\Unreal Projects\FinalProject\Intermediate\Build\Win64\FinalProjectEditor\Development\FinalProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.05.06-21.31.03:783][726]CompilerResultsLog: Reflection code generated for FinalProjectEditor in 6.9361305 seconds
+[2019.05.06-21.31.03:783][726]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.05.06-21.31.03:783][726]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.05.06-21.31.03:783][726]CompilerResultsLog:   [1/4] FinalProjectPawn.cpp
+[2019.05.06-21.31.03:783][726]CompilerResultsLog:   [2/4] UE4Editor-FinalProject-8213.lib
+[2019.05.06-21.31.03:783][726]CompilerResultsLog:      Creating library C:\Users\Admin\Documents\Unreal Projects\FinalProject\Intermediate\Build\Win64\UE4Editor\Development\FinalProject\UE4Editor-FinalProject-8213.lib and object C:\Users\Admin\Documents\Unreal Projects\FinalProject\Intermediate\Build\Win64\UE4Editor\Development\FinalProject\UE4Editor-FinalProject-8213.exp
+[2019.05.06-21.31.03:783][726]CompilerResultsLog:   [3/4] UE4Editor-FinalProject-8213.dll
+[2019.05.06-21.31.03:783][726]CompilerResultsLog:      Creating library C:\Users\Admin\Documents\Unreal Projects\FinalProject\Intermediate\Build\Win64\UE4Editor\Development\FinalProject\UE4Editor-FinalProject-8213.suppressed.lib and object C:\Users\Admin\Documents\Unreal Projects\FinalProject\Intermediate\Build\Win64\UE4Editor\Development\FinalProject\UE4Editor-FinalProject-8213.suppressed.exp
+[2019.05.06-21.31.03:783][726]CompilerResultsLog:   [4/4] FinalProjectEditor.target
+[2019.05.06-21.31.03:783][726]CompilerResultsLog: Total time in Parallel executor: 12.13 seconds
+[2019.05.06-21.31.03:783][726]CompilerResultsLog: Total execution time: 21.39 seconds
+[2019.05.06-21.31.03:783][726]LogMainFrame: MainFrame: Module compiling took 21.546 seconds
+[2019.05.06-21.31.03:809][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.05.06-21.31.03:837][726]LogContentBrowser: Native class hierarchy updated for 'FinalProject' in 0.0004 seconds. Added 3 classes and 2 folders.
+[2019.05.06-21.31.03:839][726]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.05.06-21.31.03:965][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.05.06-21.31.03:978][726]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2867 classes and 728 folders.
+[2019.05.06-21.31.03:979][726]Display: HotReload took 21.8s.
+[2019.05.06-21.31.10:794][795]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.06-21.31.22:002][926]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.06-21.31.22:016][926]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.31.22:016][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.06-21.31.22:017][926]PIE: New page: PIE session: FlyingExampleMap (May 6, 2019, 7:31:22 AM)
+[2019.05.06-21.31.22:017][926]LogPlayLevel: Creating play world package: /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap
+[2019.05.06-21.31.22:042][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025294s)
+[2019.05.06-21.31.22:043][926]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2019.05.06-21.31.22:043][926]LogPlayLevel: PIE: World Init took: (0.000634s)
+[2019.05.06-21.31.22:043][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.026095s)
+[2019.05.06-21.31.22:070][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.05.06-21.31.22:075][926]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.06-21.31.22:089][926]LogInit: FAudioDevice initialized.
+[2019.05.06-21.31.22:145][926]LogLoad: Game class is 'FinalProjectGameMode'
+[2019.05.06-21.31.22:151][926]LogWorld: Bringing World /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 60) at 2019.05.06-14.31.22
+[2019.05.06-21.31.22:151][926]LogWorld: Bringing up level for play took: 0.005371
+[2019.05.06-21.31.22:164][926]PIE: Play in editor start time for /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap 0.702
+[2019.05.06-21.31.22:164][926]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.31.47:140][662]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.31.47:140][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-21.31.47:208][662]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.06-21.31.47:208][662]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.31.47:239][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-21.31.47:244][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.05.06-21.31.47:273][663]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.05.06-21.32.55:650][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.06-21.32.55:715][915]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.06-21.32.55:727][915]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.32.55:727][915]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.06-21.32.55:727][915]PIE: New page: PIE session: FlyingExampleMap (May 6, 2019, 7:32:55 AM)
+[2019.05.06-21.32.55:727][915]LogPlayLevel: Creating play world package: /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap
+[2019.05.06-21.32.55:748][915]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021273s)
+[2019.05.06-21.32.55:749][915]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2019.05.06-21.32.55:749][915]LogPlayLevel: PIE: World Init took: (0.000734s)
+[2019.05.06-21.32.55:749][915]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.022195s)
+[2019.05.06-21.32.55:778][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.05.06-21.32.55:784][915]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.06-21.32.55:800][915]LogInit: FAudioDevice initialized.
+[2019.05.06-21.32.55:883][915]LogLoad: Game class is 'FinalProjectGameMode'
+[2019.05.06-21.32.55:889][915]LogWorld: Bringing World /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 60) at 2019.05.06-14.32.55
+[2019.05.06-21.32.55:889][915]LogWorld: Bringing up level for play took: 0.005508
+[2019.05.06-21.32.55:903][915]PIE: Play in editor start time for /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap 0.441
+[2019.05.06-21.32.55:904][915]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.33.04:225][165]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.33.04:225][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-21.33.04:295][165]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.06-21.33.04:295][165]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.33.04:324][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-21.33.04:328][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.05.06-21.33.04:351][166]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.05.06-21.33.05:151][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.06-21.33.11:991][305]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.06-21.33.12:003][305]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.33.12:003][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.06-21.33.12:003][305]PIE: New page: PIE session: FlyingExampleMap (May 6, 2019, 7:33:12 AM)
+[2019.05.06-21.33.12:003][305]LogPlayLevel: Creating play world package: /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap
+[2019.05.06-21.33.12:025][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021561s)
+[2019.05.06-21.33.12:025][305]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2019.05.06-21.33.12:025][305]LogPlayLevel: PIE: World Init took: (0.000562s)
+[2019.05.06-21.33.12:025][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.022300s)
+[2019.05.06-21.33.12:051][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.05.06-21.33.12:057][305]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.06-21.33.12:072][305]LogInit: FAudioDevice initialized.
+[2019.05.06-21.33.12:165][305]LogLoad: Game class is 'FinalProjectGameMode'
+[2019.05.06-21.33.12:169][305]LogWorld: Bringing World /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 60) at 2019.05.06-14.33.12
+[2019.05.06-21.33.12:169][305]LogWorld: Bringing up level for play took: 0.003823
+[2019.05.06-21.33.12:182][305]PIE: Play in editor start time for /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap 0.721
+[2019.05.06-21.33.12:183][305]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.34.46:187][122]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.34.46:188][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-21.34.46:252][122]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.06-21.34.46:253][122]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.34.46:283][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-21.34.46:287][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.05.06-21.34.46:312][123]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.05.06-21.37.07:622][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.06-21.37.08:352][617]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2019.05.06-21.37.09:519][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.06-21.37.09:586][649]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.06-21.37.09:599][649]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.37.09:600][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.06-21.37.09:600][649]PIE: New page: PIE session: FlyingExampleMap (May 6, 2019, 7:37:09 AM)
+[2019.05.06-21.37.09:600][649]LogPlayLevel: Creating play world package: /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap
+[2019.05.06-21.37.09:621][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021028s)
+[2019.05.06-21.37.09:622][649]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2019.05.06-21.37.09:622][649]LogPlayLevel: PIE: World Init took: (0.000556s)
+[2019.05.06-21.37.09:622][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.021819s)
+[2019.05.06-21.37.09:648][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.05.06-21.37.09:655][649]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.06-21.37.09:671][649]LogInit: FAudioDevice initialized.
+[2019.05.06-21.37.09:739][649]LogLoad: Game class is 'FinalProjectGameMode'
+[2019.05.06-21.37.09:743][649]LogWorld: Bringing World /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 60) at 2019.05.06-14.37.09
+[2019.05.06-21.37.09:744][649]LogWorld: Bringing up level for play took: 0.004018
+[2019.05.06-21.37.09:757][649]PIE: Play in editor start time for /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap 0.295
+[2019.05.06-21.37.09:757][649]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.38.10:063][456]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.38.10:063][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-21.38.10:128][456]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.06-21.38.10:128][456]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.38.10:157][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-21.38.10:161][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.05.06-21.38.10:187][457]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.05.06-21.42.09:723][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.05.06-21.42.10:098][258]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/FinalProject/Saved/FlyingExampleMap_Auto1B7D6A3C34FF74E55DF01AF8C44F5C627.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/FinalProject/Saved/Autosaves/Game/FlyingCPP/Maps/FlyingExampleMap_Auto1.umap'
+[2019.05.06-21.42.10:134][258]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FlyingCPP/Maps/FlyingExampleMap' took 0.447
+[2019.05.06-21.42.10:134][258]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.447
+[2019.05.06-21.44.17:507][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.06-21.44.17:641][654]Candidate modules for hot reload:
+[2019.05.06-21.44.17:641][654]  FinalProject
+[2019.05.06-21.44.17:641][654]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FinalProject,6168 Win64 Development -TargetType=Editor -Project="C:/Users/Admin/Documents/Unreal Projects/FinalProject/FinalProject.uproject" "C:/Users/Admin/Documents/Unreal Projects/FinalProject/FinalProject.uproject"  -IgnoreJunk]
+[2019.05.06-21.44.17:646][654]Warning: Starting HotReload took  0.1s.
+[2019.05.06-21.44.45:439][934]CompilerResultsLog: New page: Compilation - May 6, 2019, 7:44:45 AM
+[2019.05.06-21.44.45:440][934]CompilerResultsLog: Creating makefile for FinalProjectEditor (ini files are newer than makefile)
+[2019.05.06-21.44.45:440][934]CompilerResultsLog: Parsing headers for FinalProjectEditor
+[2019.05.06-21.44.45:440][934]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Admin\Documents\Unreal Projects\FinalProject\FinalProject.uproject" "C:\Users\Admin\Documents\Unreal Projects\FinalProject\Intermediate\Build\Win64\FinalProjectEditor\Development\FinalProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.05.06-21.44.45:440][934]CompilerResultsLog: Reflection code generated for FinalProjectEditor in 9.7129643 seconds
+[2019.05.06-21.44.45:440][934]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.05.06-21.44.45:440][934]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.05.06-21.44.45:440][934]CompilerResultsLog:   [1/4] FinalProjectPawn.cpp
+[2019.05.06-21.44.45:440][934]CompilerResultsLog:   [2/4] UE4Editor-FinalProject-6168.lib
+[2019.05.06-21.44.45:440][934]CompilerResultsLog:      Creating library C:\Users\Admin\Documents\Unreal Projects\FinalProject\Intermediate\Build\Win64\UE4Editor\Development\FinalProject\UE4Editor-FinalProject-6168.lib and object C:\Users\Admin\Documents\Unreal Projects\FinalProject\Intermediate\Build\Win64\UE4Editor\Development\FinalProject\UE4Editor-FinalProject-6168.exp
+[2019.05.06-21.44.45:440][934]CompilerResultsLog:   [3/4] UE4Editor-FinalProject-6168.dll
+[2019.05.06-21.44.45:440][934]CompilerResultsLog:      Creating library C:\Users\Admin\Documents\Unreal Projects\FinalProject\Intermediate\Build\Win64\UE4Editor\Development\FinalProject\UE4Editor-FinalProject-6168.suppressed.lib and object C:\Users\Admin\Documents\Unreal Projects\FinalProject\Intermediate\Build\Win64\UE4Editor\Development\FinalProject\UE4Editor-FinalProject-6168.suppressed.exp
+[2019.05.06-21.44.45:440][934]CompilerResultsLog:   [4/4] FinalProjectEditor.target
+[2019.05.06-21.44.45:440][934]CompilerResultsLog: Total time in Parallel executor: 14.97 seconds
+[2019.05.06-21.44.45:440][934]CompilerResultsLog: Total execution time: 27.59 seconds
+[2019.05.06-21.44.45:440][934]LogMainFrame: MainFrame: Module compiling took 27.857 seconds
+[2019.05.06-21.44.45:477][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.05.06-21.44.45:511][934]LogContentBrowser: Native class hierarchy updated for 'FinalProject' in 0.0008 seconds. Added 3 classes and 2 folders.
+[2019.05.06-21.44.45:513][934]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.05.06-21.44.45:587][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.05.06-21.44.45:609][934]LogContentBrowser: Native class hierarchy populated in 0.0152 seconds. Added 2867 classes and 728 folders.
+[2019.05.06-21.44.45:609][934]Display: HotReload took 28.0s.
+[2019.05.06-21.48.42:200][448]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.06-21.48.42:218][448]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.48.42:219][448]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.06-21.48.42:219][448]PIE: New page: PIE session: FlyingExampleMap (May 6, 2019, 7:48:42 AM)
+[2019.05.06-21.48.42:219][448]LogPlayLevel: Creating play world package: /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap
+[2019.05.06-21.48.42:245][448]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025582s)
+[2019.05.06-21.48.42:245][448]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2019.05.06-21.48.42:246][448]LogPlayLevel: PIE: World Init took: (0.001140s)
+[2019.05.06-21.48.42:246][448]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.027025s)
+[2019.05.06-21.48.42:285][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.05.06-21.48.42:292][448]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.06-21.48.42:311][448]LogInit: FAudioDevice initialized.
+[2019.05.06-21.48.42:347][448]LogLoad: Game class is 'FinalProjectGameMode'
+[2019.05.06-21.48.42:354][448]LogWorld: Bringing World /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 60) at 2019.05.06-14.48.42
+[2019.05.06-21.48.42:354][448]LogWorld: Bringing up level for play took: 0.006436
+[2019.05.06-21.48.42:368][448]PIE: Play in editor start time for /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap 0.906
+[2019.05.06-21.48.42:368][448]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.48.55:674][847]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.48.55:674][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-21.48.55:744][847]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.06-21.48.55:745][847]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.48.55:783][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-21.48.55:788][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.05.06-21.48.55:815][848]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.05.06-21.50.41:298][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.06-21.50.41:434][250]Candidate modules for hot reload:
+[2019.05.06-21.50.41:434][250]  FinalProject
+[2019.05.06-21.50.41:434][250]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FinalProject,7284 Win64 Development -TargetType=Editor -Project="C:/Users/Admin/Documents/Unreal Projects/FinalProject/FinalProject.uproject" "C:/Users/Admin/Documents/Unreal Projects/FinalProject/FinalProject.uproject"  -IgnoreJunk]
+[2019.05.06-21.50.41:438][250]Warning: Starting HotReload took  0.1s.
+[2019.05.06-21.51.09:096][529]CompilerResultsLog: New page: Compilation - May 6, 2019, 7:51:09 AM
+[2019.05.06-21.51.09:096][529]CompilerResultsLog: Creating makefile for FinalProjectEditor (ini files are newer than makefile)
+[2019.05.06-21.51.09:096][529]CompilerResultsLog: Parsing headers for FinalProjectEditor
+[2019.05.06-21.51.09:097][529]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Admin\Documents\Unreal Projects\FinalProject\FinalProject.uproject" "C:\Users\Admin\Documents\Unreal Projects\FinalProject\Intermediate\Build\Win64\FinalProjectEditor\Development\FinalProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.05.06-21.51.09:097][529]CompilerResultsLog: Reflection code generated for FinalProjectEditor in 9.7568311 seconds
+[2019.05.06-21.51.09:097][529]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.05.06-21.51.09:097][529]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.05.06-21.51.09:097][529]CompilerResultsLog:   [1/4] FinalProjectPawn.cpp
+[2019.05.06-21.51.09:097][529]CompilerResultsLog:   [2/4] UE4Editor-FinalProject-7284.lib
+[2019.05.06-21.51.09:097][529]CompilerResultsLog:      Creating library C:\Users\Admin\Documents\Unreal Projects\FinalProject\Intermediate\Build\Win64\UE4Editor\Development\FinalProject\UE4Editor-FinalProject-7284.lib and object C:\Users\Admin\Documents\Unreal Projects\FinalProject\Intermediate\Build\Win64\UE4Editor\Development\FinalProject\UE4Editor-FinalProject-7284.exp
+[2019.05.06-21.51.09:097][529]CompilerResultsLog:   [3/4] UE4Editor-FinalProject-7284.dll
+[2019.05.06-21.51.09:097][529]CompilerResultsLog:      Creating library C:\Users\Admin\Documents\Unreal Projects\FinalProject\Intermediate\Build\Win64\UE4Editor\Development\FinalProject\UE4Editor-FinalProject-7284.suppressed.lib and object C:\Users\Admin\Documents\Unreal Projects\FinalProject\Intermediate\Build\Win64\UE4Editor\Development\FinalProject\UE4Editor-FinalProject-7284.suppressed.exp
+[2019.05.06-21.51.09:097][529]CompilerResultsLog:   [4/4] FinalProjectEditor.target
+[2019.05.06-21.51.09:097][529]CompilerResultsLog: Total time in Parallel executor: 14.83 seconds
+[2019.05.06-21.51.09:097][529]CompilerResultsLog: Total execution time: 27.48 seconds
+[2019.05.06-21.51.09:097][529]LogMainFrame: MainFrame: Module compiling took 27.719 seconds
+[2019.05.06-21.51.09:130][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.05.06-21.51.09:161][529]LogContentBrowser: Native class hierarchy updated for 'FinalProject' in 0.0009 seconds. Added 3 classes and 2 folders.
+[2019.05.06-21.51.09:164][529]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.05.06-21.51.09:235][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.05.06-21.51.09:252][529]LogContentBrowser: Native class hierarchy populated in 0.0114 seconds. Added 2867 classes and 728 folders.
+[2019.05.06-21.51.09:252][529]Display: HotReload took 27.9s.
+[2019.05.06-21.51.19:256][670]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.06-21.51.19:278][670]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.51.19:278][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.06-21.51.19:278][670]PIE: New page: PIE session: FlyingExampleMap (May 6, 2019, 7:51:19 AM)
+[2019.05.06-21.51.19:278][670]LogPlayLevel: Creating play world package: /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap
+[2019.05.06-21.51.19:305][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026401s)
+[2019.05.06-21.51.19:305][670]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2019.05.06-21.51.19:306][670]LogPlayLevel: PIE: World Init took: (0.000884s)
+[2019.05.06-21.51.19:306][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.027472s)
+[2019.05.06-21.51.19:344][670]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.05.06-21.51.19:353][670]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.06-21.51.19:373][670]LogInit: FAudioDevice initialized.
+[2019.05.06-21.51.19:414][670]LogLoad: Game class is 'FinalProjectGameMode'
+[2019.05.06-21.51.19:421][670]LogWorld: Bringing World /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 60) at 2019.05.06-14.51.19
+[2019.05.06-21.51.19:421][670]LogWorld: Bringing up level for play took: 0.005768
+[2019.05.06-21.51.19:434][670]PIE: Play in editor start time for /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap -0.028
+[2019.05.06-21.51.19:435][670]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.51.28:360][937]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.51.28:360][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-21.51.28:426][937]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.06-21.51.28:426][937]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.51.28:461][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-21.51.28:466][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.05.06-21.51.28:489][938]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.05.06-21.51.29:004][956]Cmd: SELECT NONE
+[2019.05.06-21.52.03:839][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.06-21.52.03:973][110]Candidate modules for hot reload:
+[2019.05.06-21.52.03:974][110]  FinalProject
+[2019.05.06-21.52.03:974][110]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FinalProject,483 Win64 Development -TargetType=Editor -Project="C:/Users/Admin/Documents/Unreal Projects/FinalProject/FinalProject.uproject" "C:/Users/Admin/Documents/Unreal Projects/FinalProject/FinalProject.uproject"  -IgnoreJunk]
+[2019.05.06-21.52.03:978][110]Warning: Starting HotReload took  0.1s.
+[2019.05.06-21.52.31:603][370]CompilerResultsLog: New page: Compilation - May 6, 2019, 7:52:31 AM
+[2019.05.06-21.52.31:603][370]CompilerResultsLog: Creating makefile for FinalProjectEditor (ini files are newer than makefile)
+[2019.05.06-21.52.31:603][370]CompilerResultsLog: Parsing headers for FinalProjectEditor
+[2019.05.06-21.52.31:603][370]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Admin\Documents\Unreal Projects\FinalProject\FinalProject.uproject" "C:\Users\Admin\Documents\Unreal Projects\FinalProject\Intermediate\Build\Win64\FinalProjectEditor\Development\FinalProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.05.06-21.52.31:603][370]CompilerResultsLog: Reflection code generated for FinalProjectEditor in 9.8114229 seconds
+[2019.05.06-21.52.31:603][370]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.05.06-21.52.31:603][370]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.05.06-21.52.31:603][370]CompilerResultsLog:   [1/4] FinalProjectPawn.cpp
+[2019.05.06-21.52.31:603][370]CompilerResultsLog:   [2/4] UE4Editor-FinalProject-0483.lib
+[2019.05.06-21.52.31:603][370]CompilerResultsLog:      Creating library C:\Users\Admin\Documents\Unreal Projects\FinalProject\Intermediate\Build\Win64\UE4Editor\Development\FinalProject\UE4Editor-FinalProject-0483.lib and object C:\Users\Admin\Documents\Unreal Projects\FinalProject\Intermediate\Build\Win64\UE4Editor\Development\FinalProject\UE4Editor-FinalProject-0483.exp
+[2019.05.06-21.52.31:603][370]CompilerResultsLog:   [3/4] UE4Editor-FinalProject-0483.dll
+[2019.05.06-21.52.31:603][370]CompilerResultsLog:      Creating library C:\Users\Admin\Documents\Unreal Projects\FinalProject\Intermediate\Build\Win64\UE4Editor\Development\FinalProject\UE4Editor-FinalProject-0483.suppressed.lib and object C:\Users\Admin\Documents\Unreal Projects\FinalProject\Intermediate\Build\Win64\UE4Editor\Development\FinalProject\UE4Editor-FinalProject-0483.suppressed.exp
+[2019.05.06-21.52.31:603][370]CompilerResultsLog:   [4/4] FinalProjectEditor.target
+[2019.05.06-21.52.31:603][370]CompilerResultsLog: Total time in Parallel executor: 14.65 seconds
+[2019.05.06-21.52.31:603][370]CompilerResultsLog: Total execution time: 27.49 seconds
+[2019.05.06-21.52.31:603][370]LogMainFrame: MainFrame: Module compiling took 27.689 seconds
+[2019.05.06-21.52.31:637][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.05.06-21.52.31:658][370]LogContentBrowser: Native class hierarchy populated in 0.0150 seconds. Added 2867 classes and 728 folders.
+[2019.05.06-21.52.31:659][370]Display: HotReload took 27.8s.
+[2019.05.06-21.52.35:341][400]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2019.05.06-21.52.35:949][405]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.06-21.52.36:213][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.05.06-21.52.36:551][405]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/FinalProject/Saved/FlyingExampleMap0577AF3647711F3AD587678502828DF1.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/FinalProject/Content/FlyingCPP/Maps/FlyingExampleMap.umap'
+[2019.05.06-21.52.37:968][405]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/FinalProject/Saved/FlyingExampleMap_BuiltDataB7F608914ED0EE39BB644F9152E290CC.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/FinalProject/Content/FlyingCPP/Maps/FlyingExampleMap_BuiltData.uasset'
+[2019.05.06-21.52.39:412][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.06-21.52.39:478][454]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.06-21.52.39:497][454]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.52.39:497][454]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.06-21.52.39:497][454]PIE: New page: PIE session: FlyingExampleMap (May 6, 2019, 7:52:39 AM)
+[2019.05.06-21.52.39:497][454]LogPlayLevel: Creating play world package: /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap
+[2019.05.06-21.52.39:526][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028340s)
+[2019.05.06-21.52.39:527][454]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2019.05.06-21.52.39:527][454]LogPlayLevel: PIE: World Init took: (0.001147s)
+[2019.05.06-21.52.39:527][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.029818s)
+[2019.05.06-21.52.39:571][454]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.05.06-21.52.39:582][454]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.06-21.52.39:602][454]LogInit: FAudioDevice initialized.
+[2019.05.06-21.52.39:636][454]LogLoad: Game class is 'FinalProjectGameMode'
+[2019.05.06-21.52.39:642][454]LogWorld: Bringing World /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 60) at 2019.05.06-14.52.39
+[2019.05.06-21.52.39:642][454]LogWorld: Bringing up level for play took: 0.005601
+[2019.05.06-21.52.39:655][454]PIE: Play in editor start time for /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap 0.193
+[2019.05.06-21.52.39:655][454]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.53.08:353][320]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.53.08:354][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-21.53.08:419][320]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.06-21.53.08:419][320]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.53.08:459][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.06-21.53.08:463][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.05.06-21.53.08:487][321]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.05.06-21.53.23:461][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.06-21.53.23:529][431]Candidate modules for hot reload:
+[2019.05.06-21.53.23:529][431]  FinalProject
+[2019.05.06-21.53.23:530][431]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=FinalProject,3200 Win64 Development -TargetType=Editor -Project="C:/Users/Admin/Documents/Unreal Projects/FinalProject/FinalProject.uproject" "C:/Users/Admin/Documents/Unreal Projects/FinalProject/FinalProject.uproject"  -IgnoreJunk]
+[2019.05.06-21.53.23:534][431]Warning: Starting HotReload took  0.1s.
+[2019.05.06-21.53.51:658][853]CompilerResultsLog: New page: Compilation - May 6, 2019, 7:53:51 AM
+[2019.05.06-21.53.51:658][853]CompilerResultsLog: Creating makefile for FinalProjectEditor (ini files are newer than makefile)
+[2019.05.06-21.53.51:658][853]CompilerResultsLog: Parsing headers for FinalProjectEditor
+[2019.05.06-21.53.51:658][853]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Admin\Documents\Unreal Projects\FinalProject\FinalProject.uproject" "C:\Users\Admin\Documents\Unreal Projects\FinalProject\Intermediate\Build\Win64\FinalProjectEditor\Development\FinalProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.05.06-21.53.51:658][853]CompilerResultsLog: Reflection code generated for FinalProjectEditor in 10.0887929 seconds
+[2019.05.06-21.53.51:658][853]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.05.06-21.53.51:658][853]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.05.06-21.53.51:658][853]CompilerResultsLog:   [1/4] FinalProjectPawn.cpp
+[2019.05.06-21.53.51:658][853]CompilerResultsLog:   [2/4] UE4Editor-FinalProject-3200.lib
+[2019.05.06-21.53.51:659][853]CompilerResultsLog:      Creating library C:\Users\Admin\Documents\Unreal Projects\FinalProject\Intermediate\Build\Win64\UE4Editor\Development\FinalProject\UE4Editor-FinalProject-3200.lib and object C:\Users\Admin\Documents\Unreal Projects\FinalProject\Intermediate\Build\Win64\UE4Editor\Development\FinalProject\UE4Editor-FinalProject-3200.exp
+[2019.05.06-21.53.51:659][853]CompilerResultsLog:   [3/4] UE4Editor-FinalProject-3200.dll
+[2019.05.06-21.53.51:659][853]CompilerResultsLog:      Creating library C:\Users\Admin\Documents\Unreal Projects\FinalProject\Intermediate\Build\Win64\UE4Editor\Development\FinalProject\UE4Editor-FinalProject-3200.suppressed.lib and object C:\Users\Admin\Documents\Unreal Projects\FinalProject\Intermediate\Build\Win64\UE4Editor\Development\FinalProject\UE4Editor-FinalProject-3200.suppressed.exp
+[2019.05.06-21.53.51:659][853]CompilerResultsLog:   [4/4] FinalProjectEditor.target
+[2019.05.06-21.53.51:659][853]CompilerResultsLog: Total time in Parallel executor: 14.92 seconds
+[2019.05.06-21.53.51:659][853]CompilerResultsLog: Total execution time: 28.01 seconds
+[2019.05.06-21.53.51:659][853]LogMainFrame: MainFrame: Module compiling took 28.187 seconds
+[2019.05.06-21.53.51:696][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.05.06-21.53.51:729][853]LogContentBrowser: Native class hierarchy updated for 'FinalProject' in 0.0005 seconds. Added 3 classes and 2 folders.
+[2019.05.06-21.53.51:732][853]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.05.06-21.53.51:803][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.05.06-21.53.51:819][853]LogContentBrowser: Native class hierarchy populated in 0.0109 seconds. Added 2867 classes and 728 folders.
+[2019.05.06-21.53.51:819][853]Display: HotReload took 28.4s.
+[2019.05.06-21.53.53:794][884]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.06-21.53.53:813][884]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.53.53:813][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.06-21.53.53:813][884]PIE: New page: PIE session: FlyingExampleMap (May 6, 2019, 7:53:53 AM)
+[2019.05.06-21.53.53:813][884]LogPlayLevel: Creating play world package: /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap
+[2019.05.06-21.53.53:840][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026938s)
+[2019.05.06-21.53.53:841][884]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2019.05.06-21.53.53:841][884]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2019.05.06-21.53.53:841][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.027831s)
+[2019.05.06-21.53.53:874][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.05.06-21.53.53:880][884]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.06-21.53.53:898][884]LogInit: FAudioDevice initialized.
+[2019.05.06-21.53.53:989][884]LogLoad: Game class is 'FinalProjectGameMode'
+[2019.05.06-21.53.53:998][884]LogWorld: Bringing World /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 60) at 2019.05.06-14.53.53
+[2019.05.06-21.53.53:999][884]LogWorld: Bringing up level for play took: 0.008651
+[2019.05.06-21.53.54:012][884]PIE: Play in editor start time for /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap 0.55
+[2019.05.06-21.53.54:012][884]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2019.05.06-21.53.54:012][884]LogCore: Error: Invalid input P=-nan(ind) Y=-nan(ind) R=-nan(ind) to FRotator::Quaternion - generated NaN output: X=nan Y=nan Z=nan W=-nan(ind)
+[2019.05.06-21.53.58:811][958]LogD3D11RHI: Error: D3DDevice failed CreateBuffer VB with ByteWidth=128, BindFlags=0x1 Usage=2, CPUAccess=0x10000, MiscFlags=0x0
+[2019.05.06-21.53.58:811][958]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11VertexBuffer.cpp:83 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2019.05.06-21.53.58:811][958]LogD3D11RHI: [Aftermath] GDynamicRHI=0000021E942680C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2019.05.06-21.53.58:811][958]LogWindows: Windows GetLastError: The operation completed successfully. (0)
